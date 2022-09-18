@@ -2,7 +2,7 @@
 
 🔭 Today I’m a mechanical engineering student, tomorrow I'll a developer!
 
-🌱 I’m currently learning JavaScript, C++ (Arduino), HTML and CSS
+🌱 I’m currently learning JavaScript, C++ (Arduino), Python, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/eujoaolima">
