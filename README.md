@@ -2,7 +2,7 @@
 
 🔭 Today I’m a mechanical engineering student, tomorrow I'll a developer!
 
-🌱 I’m currently learning JavaScript, Arduino, Python, HTML5, CSS3 and React.js
+🌱 I’m currently learning JavaScript, Arduino, Python, HTML5, CSS3, React.js and Typescript
 
 <div align="center">
   <a href="https://github.com/eujoaolima">
@@ -16,7 +16,8 @@
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="João-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="João-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="João-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="João-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
   
   ##
