@@ -1,8 +1,8 @@
 ## Hi!! I am João Lima
 
-🔭 Today I’m a mechanical engineering student, tomorrow I'll a developer!
+🔭 Today I’m a mechanical engineering student, tomorrow I'll a fullstack developer!
 
-🌱 I’m currently learning JavaScript, Arduino, Python, HTML5, CSS3, React.js and Typescript
+🌱 I’m currently learning JavaScript, Arduino, Python, React.js, Typescript and Node.js
 
 <div align="center">
   <a href="https://github.com/eujoaolima">
