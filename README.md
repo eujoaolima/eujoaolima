@@ -28,6 +28,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="40" alt="mongodb logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="40" alt="firebase logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo"  />
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
 </div>
   
   ##
