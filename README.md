@@ -27,7 +27,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo"  />
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
     
-    <img align="right" alt="Goku Gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/GUZXH2s5qzgAAAAi/goku-ssj.gif">
   </div>
 </div>
   
