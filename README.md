@@ -27,8 +27,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo"  />
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
   </div>
-    
-    <img align="right" alt="duck Walking" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z6Gqy-qS-EQAAAAM/kakashi-naruto.gif">
 </div>
   
   ##
