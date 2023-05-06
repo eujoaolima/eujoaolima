@@ -1,8 +1,4 @@
-## Hi!! I am João Lima
-
-🔭 Today I’m a mechanical engineering student, tomorrow I'll a fullstack developer!
-
-🌱 I’m currently learning JavaScript, Arduino, Python, React.js, Typescript and Node.js
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,100:ffe599&height=210&section=header&text=João%20Lima&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20FullStack&descAlignY=50">
 
 <div align="center">
   <a href="https://github.com/eujoaolima">
