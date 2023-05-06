@@ -27,7 +27,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo"  />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
   
-   <img align="right" alt="Duck walking" height="150" style="border-radius:50px;" src="https://tenor.com/boPYY.gif" />
+  <div class="tenor-gif-embed" data-postid="18273682" data-share-method="host" data-aspect-ratio="0.796875" data-width="100%" align="right" alt="Duck walking" height="150" style="border-radius:50px;"><a href="https://tenor.com/view/duck-waddling-gif-18273682">Duck Waddling Sticker</a>from <a href="https://tenor.com/search/duck-stickers">Duck Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 
 </div>
