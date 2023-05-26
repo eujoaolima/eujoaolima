@@ -1,10 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,100:ffe599&height=210&section=header&text=João%20Lima&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20FullStack&descAlignY=50">
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eujoaolima&theme=onedark&title=Followers,Issues,Star,Commit,Repository,Language,PullRequest" alt="eujoaolima" />
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://github.com/eujoaolima">
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&username=eujoaolima" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&username=eujoaolima&hide=css,sass" height="150"    alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&username=eujoaolima&hide=css,sass" height="150" alt="languages graph"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eujoaolima&theme=ayu-mirage&hide_border=true" alt="streak-stats" height="150"/>
   </div>
 
   
