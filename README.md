@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,100:ffe599&height=210&section=header&text=João%20Lima&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20FullStack&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,100:ffe599&height=210&section=header&text=João%20Lima&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Fullstack%20dev&descAlignY=50">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eujoaolima&theme=onedark&title=Followers,Issues,Star,Commit,Repository,Language,PullRequest" alt="eujoaolima" />
