@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/eujoaolima/count.svg?" />
+  <img src="https://profile-counter.glitch.me/eujoaolima/count.svg?"  />
 </div>
   
 ##
