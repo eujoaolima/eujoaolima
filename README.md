@@ -10,7 +10,7 @@
   <a href="https://github.com/eujoaolima">
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&username=eujoaolima" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&username=eujoaolima&hide=css,sass" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=donut&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&username=eujoaolima&hide=css,sass" height="150" alt="languages graph"  />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eujoaolima&theme=ayu-mirage&hide_border=true" alt="streak-stats" height="150"/>
   </div>
 
