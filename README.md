@@ -30,6 +30,7 @@
     <img align="center" alt="João-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
     <img align="center" height="30" width="40" alt="nodejs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" height="30" width="40" alt="express logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img align="center" height="30" width="40" alt="SpringBoot logo" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
     <img align="center" height="30" width="40" alt="mysql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" height="30" width="40" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" height="30" width="40" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
