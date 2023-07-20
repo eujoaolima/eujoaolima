@@ -56,6 +56,8 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/eujoaolima/count.svg?"  />
 </div>
+
+![snake gif](https://github.com/eujoaolima/eujoaolima/blob/output/github-contribution-grid-snake.svg)
   
 ##
   
