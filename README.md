@@ -64,6 +64,6 @@
 ##
   
 <div align="center">
-  <img align="center" alt="Goku Gif" width="350" style="border-radius:50px;" src="https://media.tenor.com/wSjtwCXpX6EAAAAC/goku.gif">
+  <img align="center" alt="Goku Gif" width="450" style="border-radius:50px;" src="https://media.tenor.com/tUpqxGUs5jAAAAAd/one-piece-luffy.gif">
 </div>
 
