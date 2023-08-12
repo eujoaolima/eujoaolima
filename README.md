@@ -40,6 +40,7 @@
     <img align="center" height="30" width="40" alt="mysql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" height="30" width="40" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" height="30" width="40" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+    <img align="center" height="30" width="40" alt="postgresql logo" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
     <img align="center" height="30" width="40" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" height="30" width="40" alt="figma logo" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
     <img align="center" height="30" width="40" alt="sequelize logo" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
