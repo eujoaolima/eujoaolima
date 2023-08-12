@@ -33,6 +33,7 @@
     <img align="center" height="30" width="40" alt="nodejs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" height="30" width="40" alt="express logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align="center" height="30" width="40" alt="SpringBoot logo" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+    <img align="center" height="30" width="40" alt="TensorFlow logo" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
     <br>
     <br>
     <img align="center" height="30" width="40" alt="aws logo" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
