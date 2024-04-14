@@ -24,14 +24,14 @@
     <img align="center" alt="João-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="João-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="João-nextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-    <img align="center" alt="João-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+    <img align="center" alt="João-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
     <img align="center" height="30" width="40" alt="nodejs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" height="30" width="40" alt="express logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align="center" height="30" width="40" alt="SpringBoot logo" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
     <img align="center" height="30" width="40" alt="TensorFlow logo" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
     <br>
     <br>
-    <img align="center" height="30" width="40" alt="aws logo" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img align="center" height="30" width="40" alt="aws logo" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img align="center" height="30" width="40" alt="mysql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" height="30" width="40" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" height="30" width="40" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
@@ -39,7 +39,7 @@
     <img align="center" height="30" width="40" alt="postgresql logo" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
     <br>
     <br>
-    <img align="center" height="30" width="40" alt="gradle logo" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
+    <img align="center" height="30" width="40" alt="gradle logo" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" />
     <img align="center" height="30" width="40" alt="linux logo" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
     <img align="center" height="30" width="40" alt="docker logo" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
     <img align="center" height="30" width="40" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
