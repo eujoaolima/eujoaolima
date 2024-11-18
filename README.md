@@ -37,6 +37,8 @@
     <img align="center" height="30" width="40" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     <img align="center" height="30" width="40" alt="sqlite logo" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />
     <img align="center" height="30" width="40" alt="postgresql logo" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+    <img align="center" height="30" width="40" alt="graphql logo" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
+    <img align="center" height="30" width="40" alt="oracle logo" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
     <br>
     <br>
     <img align="center" height="30" width="40" alt="gradle logo" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" />
@@ -51,6 +53,7 @@
     <img align="center" height="30" width="40" alt="intellij logo" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
     <img align="center" height="30" width="40" alt="vscode logo" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
     <img align="center" height="30" width="40" alt="xcode logo" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />
+    <img align="center" height="30" width="40" alt="neo4j logo" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" />
   </div>
 </div>
   
