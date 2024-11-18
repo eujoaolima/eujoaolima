@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,100:ffe599&height=210&section=header&text=João%20Lima&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=FullStack%20Developer&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,100:ffe599&height=210&section=header&text=João%20Lima&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer&descAlignY=50">
 
 <br />
 
