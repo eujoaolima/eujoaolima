@@ -41,12 +41,10 @@
     <img align="center" height="30" width="40" alt="oracle logo" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
     <br>
     <br>
-    <img align="center" height="30" width="40" alt="gradle logo" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" />
     <img align="center" height="30" width="40" alt="linux logo" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
     <img align="center" height="30" width="40" alt="docker logo" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
     <img align="center" height="30" width="40" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" height="30" width="40" alt="figma logo" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-    <img align="center" height="30" width="40" alt="sequelize logo" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
     <img align="center" height="30" width="40" alt="tomcat logo" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" />
     <br>
     <br>
@@ -54,6 +52,15 @@
     <img align="center" height="30" width="40" alt="vscode logo" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
     <img align="center" height="30" width="40" alt="xcode logo" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />
     <img align="center" height="30" width="40" alt="neo4j logo" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" />
+    <br/>
+    <br/>
+    <img align="center" height="30" width="40" alt="ant logo" src="https://www.vectorlogo.zone/logos/apache_ant/apache_ant-icon.svg" />
+    <img align="center" height="30" width="40" alt="maven logo" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" />
+    <img align="center" height="30" width="40" alt="gradle logo" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" />
+    <br>
+    <br>
+    <img align="center" height="30" width="40" alt="junit logo" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain-wordmark.svg" />
+    <img align="center" height="30" width="40" alt="jest logo" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
   </div>
 </div>
   
