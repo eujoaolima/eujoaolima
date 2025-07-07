@@ -64,23 +64,14 @@
   </div>
 </div>
   
-   ##
+##
   
 <div align="center"> 
   <a href = "mailto:joaopedro.donatolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-lima-69a2461b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eujoaolima/count.svg?"  />
-</div>
-  
-##
   
 <div align="center">
-  <img align="center" alt="Goku Gif" width="450" style="border-radius:50px;" src="https://media.tenor.com/tUpqxGUs5jAAAAAd/one-piece-luffy.gif">
+  <img align="center" alt="Luffy Gif" width="450" style="border-radius:50px;" src="https://media1.tenor.com/m/fwrky34J6o8AAAAd/luffy-monkey-d-luffy.gif">
 </div>
 
